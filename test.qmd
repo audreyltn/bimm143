@@ -3,4 +3,9 @@ title: "test"
 format: html
 ---
 
-test 
+## Hello Git
+
+Git works by keeping track of files you care about and notifying you of their changes.
+
+However you must explicitly "add" and "commit" the changes when you want to store the snapshot.
+
