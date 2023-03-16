@@ -2,7 +2,7 @@
 
 My classwork from [BIMM143](https://bioboot.github.io/bimm143_W23/) at UC San Diego Winter 2023.
 
-- Class 5: [Data Visualization with ggplot2]()
+- Class 5: [Data Visualization with ggplot2](https://github.com/audreyltn/bimm143/blob/main/class05/class05.md)
 
 - Class 6: [R Functions]()
 
