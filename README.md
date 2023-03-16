@@ -22,4 +22,4 @@ My classwork from [BIMM143](https://bioboot.github.io/bimm143_W23/) at UC San Di
 
 - Class 17: [Mini-Project COVID-19 Vaccination Rates](https://github.com/audreyltn/bimm143/blob/main/class17.md)
 
-- Class 18: [Mutational Signatures in Cancer](https://github.com/audreyltn/bimm143/blob/main/class18.md) 
+- Class 18: [Mutational Signatures in Cancer](https://github.com/audreyltn/bimm143/blob/main/class18.md)
