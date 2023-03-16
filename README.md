@@ -4,7 +4,7 @@ My classwork from [BIMM143](https://bioboot.github.io/bimm143_W23/) at UC San Di
 
 - Class 5: [Data Visualization with ggplot2](https://github.com/audreyltn/bimm143/blob/main/class05/class05.md)
 
-- Class 6: [R Functions]()
+- Class 6: [R Functions](https://github.com/audreyltn/bimm143/blob/main/class06/class06.md)
 
 - Class 7: [Introduction to Machine Learning](https://github.com/audreyltn/bimm143/blob/main/class07/class07.md)
 
