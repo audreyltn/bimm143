@@ -14,7 +14,7 @@ My classwork from [BIMM143](https://bioboot.github.io/bimm143_W23/) at UC San Di
 
 - Class 10: [Halloween Mini-Project](https://github.com/audreyltn/bimm143/blob/main/class10/class10.md)
 
-- Class 11: [Introduction to Genome Informatics Lab](https://github.com/audreyltn/bimm143/blob/main/class11/class11.qmd)
+- Class 11: [Introduction to Genome Informatics Lab](https://github.com/audreyltn/bimm143/blob/main/class11/class11.md)
 
 - Class 12: [Transcriptomics and Analysis of RNA-Seq Data](https://github.com/audreyltn/bimm143/blob/main/class12/class12.md)
 
