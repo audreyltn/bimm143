@@ -239,8 +239,8 @@ conformational changes).
 m <- nma(adk)
 ```
 
-     Building Hessian...        Done in 0.03 seconds.
-     Diagonalizing Hessian...   Done in 0.746 seconds.
+     Building Hessian...        Done in 0.032 seconds.
+     Diagonalizing Hessian...   Done in 0.317 seconds.
 
 ``` r
 plot(m)
